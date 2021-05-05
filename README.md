@@ -21,7 +21,7 @@
     then Y = 1
     else Y = 0
 
-<table>
+<table align='center' valign="middle">
     <tr>
         <th>x1</th><th>x2</th><th>Y[or]</th><th>Y[and]</th>
     </tr>
