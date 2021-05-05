@@ -40,5 +40,6 @@
 </table>
 
 ### 結果:將學習次數的結果印出，並使用 matplotlib 繪製圖
-
+![image](picture or gif url)
+![image](picture or gif url)
 * * *
