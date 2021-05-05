@@ -21,11 +21,11 @@
     then Y = 1
     else Y = 0
 
-<table align='center' valign="middle">
-    <tr>
+<table>
+    <tr align='center' valign="middle">
         <th>x1</th><th>x2</th><th>Y[or]</th><th>Y[and]</th>
     </tr>
-    <tr>
+    <tr align='center' valign="middle">
       <td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
     <tr>
