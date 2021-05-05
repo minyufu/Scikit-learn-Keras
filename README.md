@@ -2,7 +2,7 @@
 *機器學習與深度學習*
 * * *
 ## Perceptron.py
-###單一神經感知器
+### 單一神經感知器
 * 步驟說明:
   1. initialigation(初始化參數)
   2. Activeation(反應方程式)
