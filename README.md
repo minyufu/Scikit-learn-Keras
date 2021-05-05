@@ -23,18 +23,18 @@
 
 <table>
     <tr align='center' valign="middle">
-        <th>x1</th><th>x2</th><th>Y[or]</th><th>Y[and]</th>
+        <th>x1</th><th>x2</th><th>Yd[or]</th><th>Yd[and]</th>
     </tr>
     <tr align='center' valign="middle">
       <td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
-    <tr>
+    <tr align='center' valign="middle">
       <td>0</td><td>1</td><td>1</td><td>0</td>
     </tr>
-    <tr>
+    <tr align='center' valign="middle">
       <td>1</td><td>0</td><td>1</td><td>0</td>
     </tr>
-    <tr>
+    <tr align='center' valign="middle">
       <td>1</td><td>1</td><td>1</td><td>1</td>
     </tr>
 </table>
