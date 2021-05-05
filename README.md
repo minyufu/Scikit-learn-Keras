@@ -23,7 +23,19 @@
 
 <table>
     <tr>
-        <th>x1</td><td>x2</td><td>Y[or]</td><td>Y[and]</td>
+        <th>x1</th><th>x2</th><th>Y[or]</th><th>Y[and]</th>
+    </tr>
+    <tr>
+      <td>0</td><td>0</td><td>0</td><td>0</td>
+    </tr>
+    <tr>
+      <td>0</td><td>1</td><td>1</td><td>0</td>
+    </tr>
+    <tr>
+      <td>1</td><td>0</td><td>1</td><td>0</td>
+    </tr>
+    <tr>
+      <td>1</td><td>1</td><td>1</td><td>1</td>
     </tr>
 </table>
 
