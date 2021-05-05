@@ -16,7 +16,7 @@
 * learning_rate(學習效率)
 * learning_or_and(學習or邏輯或是and邏輯)
 
-###反應方程式
+### 反應方程式
     IF(x1w1 + x2w2) >= θ
     then Y = 1
     else Y = 0
