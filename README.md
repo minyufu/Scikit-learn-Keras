@@ -2,13 +2,14 @@
 *機器學習與深度學習*
 * * *
 ## Perceptron.py
-單一神經感知器
+###單一神經感知器
 * 步驟說明:
   1. initialigation(初始化參數)
   2. Activeation(反應方程式)
-  3. 計算誤差(E = Yd - Ya)
-  4. WiP+1 = WiP + α * xi * E
-  5. Loop 2-4 till correct
+     IF()
+  4. 計算誤差(E = Yd - Ya)
+  5. WiP+1 = WiP + α * xi * E
+  6. Loop 2-4 till correct
 
 ### 使用者自訂義參數
 * w1、w2值(刺激訊號輸入)
