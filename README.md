@@ -21,5 +21,11 @@
     then Y = 1
     else Y = 0
 
+<table>
+    <tr>
+        <th>x1</td><td>x2</td><td>Y[or]</td><td>Y[and]</td>
+    </tr>
+</table>
+
 ### 結果:將學習次數的結果印出，並使用 matplotlib 繪製圖
 * * *
