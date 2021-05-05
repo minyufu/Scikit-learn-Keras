@@ -40,6 +40,6 @@
 </table>
 
 ### 結果:將學習次數的結果印出，並使用 matplotlib 繪製圖
-<img src="https://drive.google.com/file/d/1Bq85qRmtqqK9_B7A2rXHpH65vsLIVpZX/view?usp=sharing" with="300" heigh="200" alt="一張圖片">
-<img src="https://drive.google.com/file/d/11K8lI4_QTbmdstCy3wmjBvIDjhMug3V2/view?usp=sharing" with="300" heigh="200" alt="一張圖片">
+<img src="https://imgur.com/Z33QVJq" with="300" heigh="200">
+<img src="https://imgur.com/m1eZ97Q" with="300" heigh="200">
 * * *
