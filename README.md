@@ -18,3 +18,4 @@
 * learning_or_and(學習or邏輯或是and邏輯)
 
 ##結果:將學習次數的結果印出，並使用 matplotlib 繪製圖
+* * *
