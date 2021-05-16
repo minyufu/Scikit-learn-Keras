@@ -40,6 +40,6 @@
 </table>
 
 ### 結果:將學習次數的結果印出，並使用 matplotlib 繪製圖
-![image](https://github.com/minyufu/Scikit-learn-Keras/blob/main/Figure_2.png)
-![image](https://github.com/minyufu/Scikit-learn-Keras/blob/main/Figure_1.png)
+![image](https://github.com/minyufu/Scikit-learn-Keras/blob/main/Perceptron/image/Figure_2.png)
+![image](https://github.com/minyufu/Scikit-learn-Keras/blob/main/Perceptron/image/Figure_1.png)
 * * *
